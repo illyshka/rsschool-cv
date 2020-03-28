@@ -4,7 +4,7 @@
 * illyshka2013@gmail.com
 * +375 (29) 656-10-35
 ## Summary
-My goal is to succeed in programming. Seed values and being honest are important to me.
+My goal is to succeed in programming. Family values and being honest are important to me.
 
 ## Skills
 - HTML
